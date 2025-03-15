@@ -10,4 +10,5 @@ while True:
     else:
          break
 print("right")
+for i in range(10)
                 

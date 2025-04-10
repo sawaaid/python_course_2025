@@ -1,2 +1,11 @@
-s = '1 2\t 3\n 4'
-print(repr(s))
+file = open("test.txt","w")
+while True:
+    word = input("word: ")
+    if word == "end":
+        break
+    word1 = word + "\n"
+    file.write(word1)
+
+
+
+

@@ -1,0 +1,4 @@
+TAMER	100
+
+JAMIL	90
+

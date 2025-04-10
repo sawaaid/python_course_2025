@@ -1,0 +1,2 @@
+tamer	100
+jamil	90

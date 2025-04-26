@@ -5,7 +5,8 @@ my_tuple = (10, 20, 30)
 
 
 person = ("programmer", 35, "salah")
-print(person[0])  # programmer
+m=("hhh",)+person[1:]
+print(m)  # programmer
 
 
 t1 = (1, 2, 3)

@@ -16,3 +16,6 @@ vals = list(eng2sp.values())
 print('uno' in vals)
 
 print('one' in eng2sp)
+
+
+
